@@ -1,9 +1,13 @@
 ## Sobre
 
-Este projeto reúne testes automatizados para APIs REST e aplicações web, utilizando Python e ferramentas amplamente adotadas no mercado de QA. O objetivo é validar o funcionamento da aplicação por meio de testes automatizados, garantindo que funcionalidades importantes continuem funcionando corretamente após alterações no código.
+Este projeto foi criado para verificar automaticamente se um sistema está funcionando corretamente.
+
+Em vez de uma pessoa precisar testar tudo manualmente, o programa realiza essas verificações sozinho. Ele confere se as informações são enviadas e recebidas corretamente e também simula ações de um usuário, como abrir páginas, clicar em botões e preencher formulários.
+
+Dessa forma, é possível encontrar erros mais rapidamente e garantir que o sistema continue funcionando mesmo após receber novas atualizações. Para isso, o projeto utiliza Python e ferramentas de automação de testes que executam essas verificações de forma rápida e confiável.
 
 ## Tecnologias
-- Python, Pytest, Requests, Selenium, GitHub Actions
+> Python, Pytest, Requests, Selenium, GitHub Actions
 
 ## Instalação e execução
 
