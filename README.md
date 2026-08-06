@@ -1,6 +1,8 @@
 ## Sobre
 
-Projeto de automação de testes desenvolvido em Python para validar APIs REST e interfaces web.
+Este projeto reúne testes automatizados para APIs REST e aplicações web, utilizando Python e ferramentas amplamente adotadas no mercado de QA.
+
+O objetivo é validar o funcionamento da aplicação por meio de testes automatizados, garantindo que funcionalidades importantes continuem funcionando corretamente após alterações no código.
 
 ## Tecnologias
 - Python, Pytest, Requests, Selenium, GitHub Actions
