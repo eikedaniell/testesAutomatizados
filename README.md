@@ -1,3 +1,7 @@
+## Sobre
+
+Projeto de automação de testes desenvolvido em Python para validar APIs REST e interfaces web.
+
 ## Tecnologias
 - Python, Pytest, Requests, Selenium, GitHub Actions
 
